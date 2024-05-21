@@ -1,4 +1,4 @@
-;last update 22.04.2024
+# last update 22.04.2024
 outlook.cloud.microsoft
 outlook.office.com
 outlook.office365.com

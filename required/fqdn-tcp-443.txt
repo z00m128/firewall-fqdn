@@ -1,4 +1,4 @@
-;last update 22.04.2024
+# last update 22.04.2024
 *.protection.outlook.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net

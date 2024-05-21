@@ -1,4 +1,4 @@
-;last update 22.04.2024
+# last update 22.04.2024
 *.protection.outlook.com
 ssw.live.com
 storage.live.com

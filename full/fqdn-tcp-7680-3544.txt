@@ -1,4 +1,4 @@
-;last update 22.04.2024
+# last update 22.04.2024
 *.do.dsp.mp.microsoft.com
 *.dl.delivery.mp.microsoft.com
 *.emdl.ws.microsoft.com
