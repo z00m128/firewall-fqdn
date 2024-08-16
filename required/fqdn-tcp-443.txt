@@ -1,4 +1,4 @@
-# last update 22.04.2024
+# last update 16.08.2024
 *.protection.outlook.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net
@@ -54,3 +54,5 @@ swdin01-mscdn.azureedge.net
 swdin02-mscdn.azureedge.net
 account.live.com
 login.live.com
+*.endpoint.security.microsoft.com
+*.ecs.office.com
