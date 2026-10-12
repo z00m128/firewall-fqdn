@@ -1,9 +1,13 @@
-# last update 16.08.2024
+# last update 12.10.2026
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
 *.protection.outlook.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net
-mlccdn.blob.core.windows.net
 aka.ms
+join.secure.skypeassets.com
+mlccdnprod.azureedge.net
 *.onenote.com
 *.microsoft.com
 *cdn.onenote.net
@@ -11,12 +15,13 @@ ajax.aspnetcdn.com
 apis.live.net
 officeapps.live.com
 www.onedrive.com
-*.compliance.microsoft.com
 *.protection.office.com
 *.security.microsoft.com
 compliance.microsoft.com
 defender.microsoft.com
 protection.office.com
+*.compliance.microsoft.com
+purview.microsoft.com
 security.microsoft.com
 *.portal.cloudappsecurity.com
 *.aria.microsoft.com
@@ -35,6 +40,14 @@ prod.msocdn.com
 shellprod.msocdn.com
 support.microsoft.com
 technet.microsoft.com
+*.aadrm.com
+*.azurerms.com
+*.informationprotection.azure.com
+ecn.dev.virtualearth.net
+informationprotection.hosting.portal.azure.net
+activation.sls.microsoft.com
+office15client.microsoft.com
+officeclient.microsoft.com
 *.azure-apim.net
 *.flow.microsoft.com
 *.powerapps.com
@@ -42,17 +55,4 @@ technet.microsoft.com
 *.activity.windows.com
 activity.windows.com
 *.cortana.ai
-swda01-mscdn.azureedge.net
-swda02-mscdn.azureedge.net
-swdb01-mscdn.azureedge.net
-swdb02-mscdn.azureedge.net
-swdc01-mscdn.azureedge.net
-swdc02-mscdn.azureedge.net
-swdd01-mscdn.azureedge.net
-swdd02-mscdn.azureedge.net
-swdin01-mscdn.azureedge.net
-swdin02-mscdn.azureedge.net
-account.live.com
-login.live.com
-*.endpoint.security.microsoft.com
-*.ecs.office.com
+

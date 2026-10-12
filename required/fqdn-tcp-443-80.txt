@@ -1,4 +1,4 @@
-# last update 22.04.2024
+# last update 12.10.2026
 outlook.cloud.microsoft
 outlook.office.com
 outlook.office365.com
@@ -14,7 +14,9 @@ oneclient.sfx.ms
 spoprod-a.akamaihd.net
 *.svc.ms
 *.lync.com
+*.teams.cloud.microsoft
 *.teams.microsoft.com
+teams.cloud.microsoft
 teams.microsoft.com
 *.skype.com
 *.officeapps.live.com
@@ -55,8 +57,6 @@ provisioningapi.microsoftonline.com
 *.msftauth.net
 *.msftauthimages.net
 *.phonefactor.net
-enterpriseregistration.windows.net
-policykeyservice.dc.ad.msft.net
 *.office365.com
 o15.officeredir.microsoft.com
 officepreviewredir.microsoft.com
@@ -67,7 +67,6 @@ go.microsoft.com
 ajax.aspnetcdn.com
 cdn.odc.officeapps.live.com
 officecdn.microsoft.com
-officecdn.microsoft.com.edgesuite.net
 otelrules.azureedge.net
 *.entrust.net
 *.geotrust.com
@@ -77,7 +76,6 @@ otelrules.azureedge.net
 *.symcd.com
 *.verisign.com
 *.verisign.net
-apps.identrust.com
 cacerts.digicert.com
 cert.int-x3.letsencrypt.org
 crl.globalsign.com
@@ -92,6 +90,7 @@ ocsp.globalsign.com
 ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com
+oneocsp.microsoft.com
 secure.globalsign.com
 www.digicert.com
 www.microsoft.com
@@ -100,13 +99,3 @@ www.microsoft365.com
 admin.microsoft.com
 cdn.odc.officeapps.live.com
 cdn.uci.officeapps.live.com
-*.cloud.microsoft
-*.static.microsoft
-*.usercontent.microsoft
-*.manage.microsoft.com
-manage.microsoft.com
-enterpriseenrollment.manage.microsoft.com
-*.do.dsp.mp.microsoft.com
-*.dl.delivery.mp.microsoft.com
-*.emdl.ws.microsoft.com
-emdl.ws.microsoft.com

@@ -1,0 +1,14 @@
+# last update 12.10.2026
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
+outlook.cloud.microsoft
+outlook.office.com
+outlook.office365.com
+*.lync.com
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+teams.cloud.microsoft
+teams.microsoft.com
+*.sharepoint.com
+*.office.net
